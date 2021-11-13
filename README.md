@@ -3,7 +3,7 @@ ML Project
 
 git clone 
 
-git pull 
-git add . 
-git commit -m "message" 
-git status 
+git pull ,
+git add . ,
+git commit -m "message" ,
+git status ,
