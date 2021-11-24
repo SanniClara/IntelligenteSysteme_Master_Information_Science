@@ -1,0 +1,151 @@
+<rdf:RDF>
+<j.0:TopicalDescriptor rdf:about="http://id.nlm.nih.gov/mesh/D032383">
+<j.0:treeNumber rdf:resource="http://id.nlm.nih.gov/mesh/A10.690.552.750.570"/>
+<j.0:treeNumber rdf:resource="http://id.nlm.nih.gov/mesh/A11.620.500"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000737"/>
+<j.0:active rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.0:active>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000821"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000166"/>
+<j.0:broaderDescriptor rdf:resource="http://id.nlm.nih.gov/mesh/D009206"/>
+<j.0:previousIndexing xml:lang="en">Myocardium/cytology (1968-2002)</j.0:previousIndexing>
+<j.0:treeNumber rdf:resource="http://id.nlm.nih.gov/mesh/A07.541.704.570"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000648"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000145"/>
+<j.0:preferredTerm rdf:resource="http://id.nlm.nih.gov/mesh/T464378"/>
+<j.0:seeAlso rdf:resource="http://id.nlm.nih.gov/mesh/D009210"/>
+<j.0:seeAlso rdf:resource="http://id.nlm.nih.gov/mesh/D032386"/>
+<j.0:preferredConcept rdf:resource="http://id.nlm.nih.gov/mesh/M0400427"/>
+<j.0:dateEstablished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01</j.0:dateEstablished>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000473"/>
+<j.0:publicMeSHNote xml:lang="en">2003</j.0:publicMeSHNote>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000378"/>
+<rdfs:label xml:lang="en">Myocytes, Cardiac</rdfs:label>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000637"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000469"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000201"/>
+<j.0:broaderDescriptor rdf:resource="http://id.nlm.nih.gov/mesh/D032342"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000276"/>
+<j.0:identifier>D032383</j.0:identifier>
+<j.0:historyNote xml:lang="en">2003</j.0:historyNote>
+<j.0:dateRevised rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-07-08</j.0:dateRevised>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000382"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000187"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000528"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000502"/>
+<j.0:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-07-03</j.0:dateCreated>
+</j.0:TopicalDescriptor>
+
+<j.0:TopicalDescriptor rdf:about="http://id.nlm.nih.gov/mesh/D010770">
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000648"/>
+<j.0:identifier>D010770</j.0:identifier>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000378"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000172"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000506"/>
+<j.0:publicMeSHNote xml:lang="en">
+PHOSPHOTRANSFERASES, ATP was heading 1974-93; KINASES was see PHOSPHOTRANSFERASES, ATP 1977-93, was see PHOSPHOTRANSFERASES 1963-76
+</j.0:publicMeSHNote>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000494"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000145"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000737"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000138"/>
+<j.0:active rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.0:active>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000008"/>
+<j.0:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-01-01</j.0:dateCreated>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000235"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000627"/>
+<j.0:annotation xml:lang="en">
+general or unspecified; prefer specific groups or specific phosphotransferases
+</j.0:annotation>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000097"/>
+<j.0:onlineNote xml:lang="en">
+use PHOSPHOTRANSFERASES to search PHOSPHOTRANSFERASES, ATP 1974-93 & KINASES 1966-93
+</j.0:onlineNote>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000592"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000096"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000187"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000528"/>
+<j.0:preferredTerm rdf:resource="http://id.nlm.nih.gov/mesh/T031821"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000266"/>
+<j.0:preferredConcept rdf:resource="http://id.nlm.nih.gov/mesh/M0016737"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000302"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000032"/>
+<j.0:historyNote xml:lang="en">
+PHOSPHOTRANSFERASES, ATP was heading 1974-93; KINASES was see PHOSPHOTRANSFERASES, ATP 1977-93, was see PHOSPHOTRANSFERASES 1963-76
+</j.0:historyNote>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000652"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000276"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000493"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000633"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000037"/>
+<j.0:dateRevised rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-07-05</j.0:dateRevised>
+<j.0:broaderDescriptor rdf:resource="http://id.nlm.nih.gov/mesh/D014166"/>
+<j.0:concept rdf:resource="http://id.nlm.nih.gov/mesh/M0016738"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000502"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000600"/>
+<j.0:treeNumber rdf:resource="http://id.nlm.nih.gov/mesh/D08.811.913.696"/>
+<j.0:nlmClassificationNumber>QU 141</j.0:nlmClassificationNumber>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000009"/>
+<rdfs:label xml:lang="en">Phosphotransferases</rdfs:label>
+<j.0:dateEstablished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1963-01-01</j.0:dateEstablished>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000191"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000134"/>
+</j.0:TopicalDescriptor>
+
+<j.0:TopicalDescriptor rdf:about="http://id.nlm.nih.gov/mesh/D009202">
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000628"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000000981"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000208"/>
+<j.0:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1978-05-19</j.0:dateCreated>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000235"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000662"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000821"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000523"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000469"/>
+<j.0:annotation xml:lang="en">
+general or unspecified; prefer specifics; for infections of the myocardium, coordinate here with infection term, not with HEART DISEASES
+</j.0:annotation>
+<j.0:broaderDescriptor rdf:resource="http://id.nlm.nih.gov/mesh/D006331"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000201"/>
+<j.0:preferredTerm rdf:resource="http://id.nlm.nih.gov/mesh/T027440"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000451"/>
+<j.0:active rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.0:active>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000503"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000382"/>
+<j.0:nlmClassificationNumber>WG 280</j.0:nlmClassificationNumber>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000266"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000191"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000139"/>
+<j.0:historyNote xml:lang="en">2005 (1979)</j.0:historyNote>
+<j.0:preferredConcept rdf:resource="http://id.nlm.nih.gov/mesh/M0014337"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000532"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000601"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000473"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000517"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000276"/>
+<j.0:dateEstablished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1979-01-01</j.0:dateEstablished>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000453"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000196"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000188"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000401"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000175"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000652"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000209"/>
+<j.0:identifier>D009202</j.0:identifier>
+<j.0:concept rdf:resource="http://id.nlm.nih.gov/mesh/M0014339"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000178"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000151"/>
+<j.0:treeNumber rdf:resource="http://id.nlm.nih.gov/mesh/C14.280.238"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000097"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000534"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000378"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000134"/>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000145"/>
+<j.0:concept rdf:resource="http://id.nlm.nih.gov/mesh/M0014338"/>
+<rdfs:label xml:lang="en">Cardiomyopathies</rdfs:label>
+<j.0:publicMeSHNote xml:lang="en">
+2005; see MYOCARDIAL DISEASES 1979-2004; MYOCARDIAL DISEASES, PRIMARY & MYOCARDIAL DISEASES, SECONDARY were headings 1966-1978
+</j.0:publicMeSHNote>
+<j.0:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000150"/>
+<j.0:dateRevised rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-07-19</j.0:dateRevised>
+</j.0:TopicalDescriptor>
+</rdf:RDF>
