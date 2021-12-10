@@ -5695,3 +5695,1290 @@ DevTools listening on ws://localhost:38207/devtools/browser/a10f595a-daaa-48aa-8
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
 1638130135715	geckodriver	INFO	Listening on 127.0.0.1:39653
+1638130459727	geckodriver	INFO	Listening on 127.0.0.1:41013
+1638130459731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56303" "-no-remote" "-profile" "/tmp/rust_mozprofileuVEEzT"
+1638130460300	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuVEEzT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56303/devtools/browser/a8c9674d-3cb9-4a54-8931-066e30f70383
+1638130461558	Marionette	INFO	Listening on port 41357
+1638130461683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638130480049	geckodriver	INFO	Listening on 127.0.0.1:55053
+1638130480054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38435" "-no-remote" "-profile" "/tmp/rust_mozprofilesHRMKh"
+1638130480579	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesHRMKh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38435/devtools/browser/c20b5b99-a278-4949-a5f7-d241797e284f
+1638130481959	Marionette	INFO	Listening on port 37909
+1638130481998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+1638130515597	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1638130518165	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1638130550367	geckodriver	INFO	Listening on 127.0.0.1:59705
+1638130550372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50625" "-no-remote" "-profile" "/tmp/rust_mozprofile1BgBnI"
+1638130550871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1BgBnI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50625/devtools/browser/d600892d-34db-425e-88cf-9b4f7e4a0a17
+1638130552110	Marionette	INFO	Listening on port 40823
+1638130552228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638130559671	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+1638130580426	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+1638130588502	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/password-recipes importChanges() IndexedDB:  importChanges() in main/password-recipes The current transaction exceeded its quota limitations.
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: main/tippytop importChanges() IndexedDB: collections, timestamps, records importChanges() in main/tippytop A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/doh-providers importChanges() IndexedDB:  importChanges() in main/doh-providers The current transaction exceeded its quota limitations.
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: main/normandy-recipes-capabilities importChanges() IndexedDB: collections, timestamps, records importChanges() in main/normandy-recipes-capabilities A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/language-dictionaries importChanges() IndexedDB:  importChanges() in main/language-dictionaries The current transaction exceeded its quota limitations.
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: main/public-suffix-list importChanges() IndexedDB: collections, timestamps, records importChanges() in main/public-suffix-list A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/search-default-override-allowlist importChanges() IndexedDB:  importChanges() in main/search-default-override-allowlist The current transaction exceeded its quota limitations.
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: main/hijack-blocklists importChanges() IndexedDB: collections, timestamps, records importChanges() in main/hijack-blocklists A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/url-classifier-skip-urls importChanges() IndexedDB:  importChanges() in main/url-classifier-skip-urls The current transaction exceeded its quota limitations.
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: main/pioneer-study-addons-v1 importChanges() IndexedDB: collections, timestamps, records importChanges() in main/pioneer-study-addons-v1 A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/fxmonitor-breaches importChanges() IndexedDB:  importChanges() in main/fxmonitor-breaches The current transaction exceeded its quota limitations.
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: main/search-telemetry importChanges() IndexedDB: collections, timestamps, records importChanges() in main/search-telemetry A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/websites-with-shared-credential-backends importChanges() IndexedDB:  importChanges() in main/websites-with-shared-credential-backends The current transaction exceeded its quota limitations.
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: main/password-rules importChanges() IndexedDB: collections, timestamps, records importChanges() in main/password-rules A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: security-state/cert-revocations importChanges() IndexedDB:  importChanges() in security-state/cert-revocations The current transaction exceeded its quota limitations.
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: security-state/intermediates importChanges() IndexedDB: collections, timestamps, records importChanges() in security-state/intermediates A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: security-state/onecrl importChanges() IndexedDB:  importChanges() in security-state/onecrl The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: NotReadableError: Could not write chunk (size = 3793) to file /tmp/rust_mozprofile1BgBnI/bookmarkbackups/bookmarks-2021-11-28.jsonlz4.tmp. The file may be corrupt.
+1638130941658	addons.xpi	ERROR	Failed to download system add-on reset-search-defaults@mozilla.com: {"operation":"write","path":"/tmp/tmpaddon","unixErrno":28}
+1638130941664	addons.xpi	ERROR	Failed to download system add-on proxy-failover@mozilla.com: {"operation":"write","path":"/tmp/tmpaddon-9d6bc2","unixErrno":28}
+1638130941665	addons.xpi	ERROR	Failed to download system add-on addons-search-detection@mozilla.com: {"operation":"write","path":"/tmp/tmpaddon-3f2da9","unixErrno":28}
+Gdk-Message: 21:26:55.198: Error reading events from display: Datenübergabe unterbrochen (broken pipe)
+Gdk-Message: 21:26:55.199: Error reading events from display: Datenübergabe unterbrochen (broken pipe)
+Gdk-Message: 21:26:55.208: Error reading events from display: Die Verbindung wurde vom Kommunikationspartner zurückgesetzt
+Exiting due to channel error.
+1638368422501	geckodriver	INFO	Listening on 127.0.0.1:51227
+1638368423009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35083" "-no-remote" "-profile" "/tmp/rust_mozprofilesRYIh8"
+1638368424342	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesRYIh8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35083/devtools/browser/b9fa913d-585d-41ec-a2d2-88c573984d62
+1638368426578	Marionette	INFO	Listening on port 35223
+1638368426645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638368448523	geckodriver	INFO	Listening on 127.0.0.1:48291
+1638368448529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47817" "-no-remote" "-profile" "/tmp/rust_mozprofile9M2VPg"
+1638368449282	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9M2VPg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47817/devtools/browser/66898dc2-ed04-4070-89ee-39ab552e187e
+1638368451392	Marionette	INFO	Listening on port 35921
+1638368451468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638368655503	geckodriver	INFO	Listening on 127.0.0.1:59321
+1638368655509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46945" "-no-remote" "-profile" "/tmp/rust_mozprofileGKP3vS"
+1638368656589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGKP3vS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46945/devtools/browser/c7444c16-78a0-414b-8c89-bd8f2895fc7b
+1638368658905	Marionette	INFO	Listening on port 34931
+1638368658951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638368797587	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1638368797593	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js, line 7: TypeError: s is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638369205677	geckodriver	INFO	Listening on 127.0.0.1:50731
+1638369206190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54211" "-no-remote" "-profile" "/tmp/rust_mozprofilesORAbL"
+1638369207641	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesORAbL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54211/devtools/browser/8d4f7921-60f0-4624-bde4-248f5ce3bbf3
+1638369209461	Marionette	INFO	Listening on port 42149
+1638369209562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638369217510	Marionette	INFO	Stopped listening on port 42149
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638369218229	geckodriver	INFO	Listening on 127.0.0.1:33791
+1638369218233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38993" "-no-remote" "-profile" "/tmp/rust_mozprofilejWphn3"
+1638369218887	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejWphn3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38993/devtools/browser/e31f380f-d317-40b4-915e-6b1eb3beb90d
+1638369220550	Marionette	INFO	Listening on port 42647
+1638369220694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638369227978	Marionette	INFO	Stopped listening on port 42647
+1638369228657	geckodriver	INFO	Listening on 127.0.0.1:56427
+1638369228661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47795" "-no-remote" "-profile" "/tmp/rust_mozprofileRtZzFu"
+1638369229321	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRtZzFu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47795/devtools/browser/f599a6b4-8d1c-4721-b403-0fe175671877
+1638369231216	Marionette	INFO	Listening on port 42781
+1638369231388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638369237476	Marionette	INFO	Stopped listening on port 34931
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638369238811	Marionette	INFO	Stopped listening on port 35223
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638369239895	Marionette	INFO	Stopped listening on port 42781
+1638369240051	Marionette	INFO	Stopped listening on port 35921
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638369240614	geckodriver	INFO	Listening on 127.0.0.1:49431
+1638369240618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39303" "-no-remote" "-profile" "/tmp/rust_mozprofileaUA6L1"
+1638369241351	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaUA6L1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39303/devtools/browser/51a154c1-680d-45a6-95af-53cd7bbf5f58
+1638369243219	Marionette	INFO	Listening on port 46303
+1638369243255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638369248733	Marionette	INFO	Stopped listening on port 46303
+1638369249393	geckodriver	INFO	Listening on 127.0.0.1:39023
+1638369249401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59835" "-no-remote" "-profile" "/tmp/rust_mozprofiletDejxJ"
+1638369250253	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletDejxJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59835/devtools/browser/1f507064-9e82-46e3-a477-060240e1372f
+1638369251944	Marionette	INFO	Listening on port 45079
+1638369253143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638369262084	geckodriver	INFO	Listening on 127.0.0.1:55343
+1638369262089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42619" "-no-remote" "-profile" "/tmp/rust_mozprofileAO6JC4"
+1638369262816	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAO6JC4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42619/devtools/browser/26c72d23-7c78-44db-bc4a-db8c5c25ef67
+1638369264546	Marionette	INFO	Listening on port 36369
+1638369265754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638369267423	Marionette	INFO	Stopped listening on port 45079
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638369271932	Marionette	INFO	Stopped listening on port 36369
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638369272614	geckodriver	INFO	Listening on 127.0.0.1:45307
+1638369272621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50857" "-no-remote" "-profile" "/tmp/rust_mozprofileWHgDrn"
+1638369273317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWHgDrn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50857/devtools/browser/00c55c9f-c285-486c-b8c5-6c2d3125865b
+1638369275117	Marionette	INFO	Listening on port 36831
+1638369275222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638369283205	Marionette	INFO	Stopped listening on port 36831
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638369283856	geckodriver	INFO	Listening on 127.0.0.1:44253
+1638369283860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44677" "-no-remote" "-profile" "/tmp/rust_mozprofileqc0NHB"
+1638369284721	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqc0NHB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44677/devtools/browser/94727f14-3c14-4809-8d79-f58027ccccfc
+1638369287108	Marionette	INFO	Listening on port 35799
+1638369287199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1638369319399	geckodriver	INFO	Listening on 127.0.0.1:51907
+1638369319408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52607" "-no-remote" "-profile" "/tmp/rust_mozprofileCYfdaW"
+1638369320405	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCYfdaW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52607/devtools/browser/2e0e2b2f-6b6f-41ed-b946-9f456b2f6f59
+1638369322010	Marionette	INFO	Listening on port 46365
+1638369322043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638369327424	geckodriver	INFO	Listening on 127.0.0.1:57587
+1638369327428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49629" "-no-remote" "-profile" "/tmp/rust_mozprofile9cWv5s"
+1638369328170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9cWv5s/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49629/devtools/browser/f82483a4-0f18-42e3-96b3-1f3b8b26b619
+1638369329856	Marionette	INFO	Listening on port 45039
+1638369329963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638369332894	geckodriver	INFO	Listening on 127.0.0.1:51701
+1638369332899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58973" "-no-remote" "-profile" "/tmp/rust_mozprofileSyhO94"
+1638369333987	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSyhO94/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58973/devtools/browser/984883e5-a634-4466-bfcf-6a6306a221b7
+1638369336289	Marionette	INFO	Listening on port 38133
+1638369336344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638369339989	geckodriver	INFO	Listening on 127.0.0.1:39349
+1638369339996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36881" "-no-remote" "-profile" "/tmp/rust_mozprofilekXeCJX"
+1638369341204	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekXeCJX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36881/devtools/browser/17f547a0-e129-428b-b057-cb0c7a3f127b
+1638369343912	Marionette	INFO	Listening on port 35775
+1638369344889	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638369350858	geckodriver	INFO	Listening on 127.0.0.1:37599
+1638369351372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60199" "-no-remote" "-profile" "/tmp/rust_mozprofileUUD6tv"
+1638369352191	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUUD6tv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60199/devtools/browser/b89c330c-c603-4c28-8f76-1eeb71153dfd
+1638369354474	Marionette	INFO	Listening on port 38039
+1638369354506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638369358282	geckodriver	INFO	Listening on 127.0.0.1:44673
+1638369358287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36343" "-no-remote" "-profile" "/tmp/rust_mozprofileYb1iQ1"
+1638369359575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYb1iQ1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36343/devtools/browser/ba5bc440-e9bf-4ebb-bf4c-84d6e01d723a
+1638369363047	Marionette	INFO	Listening on port 33291
+1638369363152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638369563121	Marionette	INFO	Stopped listening on port 45039
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638369563988	Marionette	INFO	Stopped listening on port 35775
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638369566936	Marionette	INFO	Stopped listening on port 33291
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638369569506	Marionette	INFO	Stopped listening on port 46365
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638369570372	Marionette	INFO	Stopped listening on port 38133
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638369571158	Marionette	INFO	Stopped listening on port 38039
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1639053754618	geckodriver	INFO	Listening on 127.0.0.1:42155
+1639053755130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47355" "-no-remote" "-profile" "/tmp/rust_mozprofile2prpHv"
+1639053755949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2prpHv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47355/devtools/browser/2ba48593-c4d3-4ffd-97fe-16e15b2f4eef
+1639053758075	Marionette	INFO	Listening on port 34813
+1639053758171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390888&moatClientSlicer1=269605102&moatClientSlicer2=21700831709&zMoatPS=LB1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390888&moatClientSlicer1=269605102&moatClientSlicer2=21695797637&zMoatPS=LB1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f8gou5y2Dfq0zn72-W9hYw99gWviw2ua4IRi-orcC78.js line 1 > eval line 5536 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1639056425820	geckodriver	INFO	Listening on 127.0.0.1:53741
+1639056426322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45277" "-no-remote" "-profile" "/tmp/rust_mozprofilecfxcte"
+1639056427428	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecfxcte/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45277/devtools/browser/df1229df-afbb-4e37-8502-26868c5aeb1a
+1639056430343	Marionette	INFO	Listening on port 45139
+1639056430410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390849&moatClientSlicer1=269605102&moatClientSlicer2=21700831709&zMoatPS=MPU1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://cdn.pbgrd.com/pbgrd-nature.js, line 8: TypeError: e.googletag is undefined
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390888&moatClientSlicer1=269605102&moatClientSlicer2=21695797637&zMoatPS=LB1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f8gou5y2Dfq0zn72-W9hYw99gWviw2ua4IRi-orcC78.js line 1 > eval line 1669 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1639056744027	geckodriver	INFO	Listening on 127.0.0.1:39419
+1639056744538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48865" "-no-remote" "-profile" "/tmp/rust_mozprofileiJfQJl"
+1639056745427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiJfQJl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48865/devtools/browser/baf863bb-4342-4c8a-bc01-5c1a31df91f3
+1639056747429	Marionette	INFO	Listening on port 38817
+1639056747486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4408541474&moatClientLevel2=2834521909&moatClientLevel3=5651083177&moatClientLevel4=138344422312&moatClientSlicer1=269605102&moatClientSlicer2=21700831724&zMoatPS=LB1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390888&moatClientSlicer1=269605102&moatClientSlicer2=21695797637&zMoatPS=LB1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f8gou5y2Dfq0zn72-W9hYw99gWviw2ua4IRi-orcC78.js line 1 > eval line 3288 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1639056996179	geckodriver	INFO	Listening on 127.0.0.1:35763
+1639056996691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44997" "-no-remote" "-profile" "/tmp/rust_mozprofilepLLbCH"
+1639056997623	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepLLbCH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44997/devtools/browser/8c4e5f05-bf31-415b-9331-b74d32ae2dc8
+1639056999606	Marionette	INFO	Listening on port 45569
+1639056999655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390888&moatClientSlicer1=269605102&moatClientSlicer2=21695797637&zMoatPS=LB1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/fourhealthmediadcmdisplay815815237626/moatad.js#moatClientLevel1=9051806&moatClientLevel2=26637996&moatClientLevel3=315868126&moatClientLevel4=161130208&moatClientSlicer1=5233882&zMoatG=ct=DE&st=&city=5695&dma=0&zp=69509&bw=4&zMoatUSER=0, line 253: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f8gou5y2Dfq0zn72-W9hYw99gWviw2ua4IRi-orcC78.js line 1 > eval line 3220 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+SourceActor threw an exception: Error: Failed to fetch https://www.googletagservices.com/dcm/dcmads.js. Code 2152398878.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.googletagservices.com/dcm/dcmads.js. Code 2152398878.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.googletagservices.com/dcm/dcmads.js. Code 2152398878.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967411/pagestyle34, type isPositionEditable failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:195:50\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967411/pagestyle34, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: 
+  InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+_getOrCreateActor@resource://devtools/server/devtools-server-connection.js:217:22
+onPacket@resource://devtools/server/devtools-server-connection.js:362:24
+_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18
+emit@resource://gre/modules/EventEmitter.jsm:160:20
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:513:21
+
+console.error: 
+  InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+_getOrCreateActor@resource://devtools/server/devtools-server-connection.js:217:22
+onPacket@resource://devtools/server/devtools-server-connection.js:362:24
+_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18
+emit@resource://gre/modules/EventEmitter.jsm:160:20
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:513:21
+
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967421/pagestyle34 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967421/pagestyle34, type isPositionEditable failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:195:50\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: 
+  InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+_getOrCreateActor@resource://devtools/server/devtools-server-connection.js:217:22
+onPacket@resource://devtools/server/devtools-server-connection.js:362:24
+_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18
+emit@resource://gre/modules/EventEmitter.jsm:160:20
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:513:21
+
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: 
+  InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+_getOrCreateActor@resource://devtools/server/devtools-server-connection.js:217:22
+onPacket@resource://devtools/server/devtools-server-connection.js:362:24
+_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18
+emit@resource://gre/modules/EventEmitter.jsm:160:20
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:513:21
+
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967422/domwalker32, type getOffsetParent failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:202:56\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967422/pagestyle33, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967423/pagestyle34 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967424/pagestyle34, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\n_emit@resource://devtools/shared/event-emitter.js:244:34\nemit@resource://devtools/shared/event-emitter.js:190:18\nemit@resource://devtools/shared/event-emitter.js:342:18\nonReflowInSelection@resource://devtools/client/inspector/inspector.js:1584:10\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:800:24\nlater@resource://devtools/shared/throttle.js:33:19\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967424/pagestyle34, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967425/pagestyle34 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967426/pagestyle34, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\n_emit@resource://devtools/shared/event-emitter.js:244:34\nemit@resource://devtools/shared/event-emitter.js:190:18\nemit@resource://devtools/shared/event-emitter.js:342:18\nonReflowInSelection@resource://devtools/client/inspector/inspector.js:1584:10\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:800:24\nlater@resource://devtools/shared/throttle.js:33:19\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967426/pagestyle34, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967427/domwalker33, type getOffsetParent failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:202:56\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: 
+  InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+_getOrCreateActor@resource://devtools/server/devtools-server-connection.js:217:22
+onPacket@resource://devtools/server/devtools-server-connection.js:362:24
+_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18
+emit@resource://gre/modules/EventEmitter.jsm:160:20
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:513:21
+
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967428/pagestyle38, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967429/pagestyle34 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967429/domwalker33, type getOffsetParent failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:202:56\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: 
+  InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+_getOrCreateActor@resource://devtools/server/devtools-server-connection.js:217:22
+onPacket@resource://devtools/server/devtools-server-connection.js:362:24
+_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18
+emit@resource://gre/modules/EventEmitter.jsm:160:20
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:513:21
+
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967430/pagestyle34, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\n_emit@resource://devtools/shared/event-emitter.js:244:34\nemit@resource://devtools/shared/event-emitter.js:190:18\nemit@resource://devtools/shared/event-emitter.js:342:18\nonReflowInSelection@resource://devtools/client/inspector/inspector.js:1584:10\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:800:24\nlater@resource://devtools/shared/throttle.js:33:19\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967430/pagestyle34, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967432/pagestyle34, type isPositionEditable failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:195:50\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967432/pagestyle34, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: 
+  InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+_getOrCreateActor@resource://devtools/server/devtools-server-connection.js:217:22
+onPacket@resource://devtools/server/devtools-server-connection.js:362:24
+_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18
+emit@resource://gre/modules/EventEmitter.jsm:160:20
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:513:21
+
+console.error: 
+  InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+_getOrCreateActor@resource://devtools/server/devtools-server-connection.js:217:22
+onPacket@resource://devtools/server/devtools-server-connection.js:362:24
+_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18
+emit@resource://gre/modules/EventEmitter.jsm:160:20
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:513:21
+
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+JavaScript error: resource://devtools/server/actors/page-style.js, line 570: TypeError: node is null
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967434/pagestyle34 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967434/pagestyle34 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967435/pagestyle34 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967435/pagestyle34 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://www.nature.com/static/css/article-nature-branded.660256c7f7.css, using system principal instead."
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967436/pagestyle34, type isPositionEditable failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:195:50\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967436/pagestyle34, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967436/pagestyle34, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: 
+  InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+_getOrCreateActor@resource://devtools/server/devtools-server-connection.js:217:22
+onPacket@resource://devtools/server/devtools-server-connection.js:362:24
+_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18
+emit@resource://gre/modules/EventEmitter.jsm:160:20
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:513:21
+
+console.error: 
+  InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+_getOrCreateActor@resource://devtools/server/devtools-server-connection.js:217:22
+onPacket@resource://devtools/server/devtools-server-connection.js:362:24
+_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18
+emit@resource://gre/modules/EventEmitter.jsm:160:20
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:513:21
+
+console.error: 
+  InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+_getOrCreateActor@resource://devtools/server/devtools-server-connection.js:217:22
+onPacket@resource://devtools/server/devtools-server-connection.js:362:24
+_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18
+emit@resource://gre/modules/EventEmitter.jsm:160:20
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:513:21
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1639057636887	geckodriver	INFO	Listening on 127.0.0.1:33473
+1639057636893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34083" "-no-remote" "-profile" "/tmp/rust_mozprofileh2bhD2"
+1639057637698	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh2bhD2/search.json.mozlz4", (void 0)))
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 137: Error: No DOM node set for aPlacesNode.
+node.type: 0. node.parent: [xpconnect wrapped nsINavHistoryResultNode]
+DevTools listening on ws://localhost:34083/devtools/browser/06e73e92-03fb-4721-b976-2c50b55d4bf7
+1639057639206	Marionette	INFO	Listening on port 37085
+1639057639332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390849&moatClientSlicer1=269605102&moatClientSlicer2=21695797343&zMoatPS=MPU1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1639057673553	geckodriver	INFO	Listening on 127.0.0.1:38837
+1639057673560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34037" "-no-remote" "-profile" "/tmp/rust_mozprofilekxxYnG"
+1639057674197	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekxxYnG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34037/devtools/browser/a2da2152-d6f8-4a0d-a692-8d47361f5bec
+1639057675958	Marionette	INFO	Listening on port 45645
+1639057676024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1639057739004	geckodriver	INFO	Listening on 127.0.0.1:48155
+1639057739008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52161" "-no-remote" "-profile" "/tmp/rust_mozprofileIbOPpx"
+1639057739661	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIbOPpx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52161/devtools/browser/2d018294-c0db-42be-9431-c592c70cf001
+1639057741572	Marionette	INFO	Listening on port 33579
+1639057741640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390888&moatClientSlicer1=269605102&moatClientSlicer2=21695797637&zMoatPS=LB1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1639057805980	geckodriver	INFO	Listening on 127.0.0.1:55271
+1639057805985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60381" "-no-remote" "-profile" "/tmp/rust_mozprofileeAMa66"
+1639057806639	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeAMa66/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60381/devtools/browser/40f2e5b1-d8f8-4098-811d-3cc6b71eb80e
+1639057808962	Marionette	INFO	Listening on port 46625
+1639057809029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.nature.com/search?q=brain%20cell&order=relevance, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.nature.com/articles/s41586-021-04183-x, line 6: ReferenceError: osdlfm is not defined
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390849&moatClientSlicer1=269605102&moatClientSlicer2=21700831709&zMoatPS=MPU1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://www.nature.com/articles/s41467-021-26057-6, line 6: ReferenceError: osdlfm is not defined
+JavaScript error: https://cdn.pbgrd.com/pbgrd-nature.js, line 8: TypeError: e.googletag is undefined
+JavaScript error: https://cdn.pbgrd.com/pbgrd-nature.js, line 8: TypeError: e.googletag is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1639057849958	geckodriver	INFO	Listening on 127.0.0.1:60179
+1639057850464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40497" "-no-remote" "-profile" "/tmp/rust_mozprofileSCIyqP"
+1639057851287	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSCIyqP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40497/devtools/browser/f1e45c41-daf0-4a7f-a50a-8fd46a313614
+1639057852987	Marionette	INFO	Listening on port 36603
+1639057853098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.nature.com/search?q=brain%20cell&order=relevance, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.nature.com/articles/s41586-021-04183-x, line 6: ReferenceError: osdlfm is not defined
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390849&moatClientSlicer1=269605102&moatClientSlicer2=21700831709&zMoatPS=MPU1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+1639058098281	geckodriver	INFO	Listening on 127.0.0.1:45225
+1639058098793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59189" "-no-remote" "-profile" "/tmp/rust_mozprofilee9zIVL"
+1639058099402	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee9zIVL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59189/devtools/browser/82d34f98-df04-4180-91e4-ae898180250a
+1639058100926	Marionette	INFO	Listening on port 34109
+1639058101136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390888&moatClientSlicer1=269605102&moatClientSlicer2=21695797637&zMoatPS=LB1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1639059383885	geckodriver	INFO	Listening on 127.0.0.1:58987
+1639059384393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49567" "-no-remote" "-profile" "/tmp/rust_mozprofileRewbdY"
+1639059385169	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRewbdY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49567/devtools/browser/0ceb2860-1f12-4c6c-b572-334349d3faf9
+1639059387011	Marionette	INFO	Listening on port 43563
+1639059387135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390888&moatClientSlicer1=269605102&moatClientSlicer2=21695797637&zMoatPS=LB1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390888&moatClientSlicer1=269605102&moatClientSlicer2=21695797637&zMoatPS=LB1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390849&moatClientSlicer1=269605102&moatClientSlicer2=21700831709&zMoatPS=MPU1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1639059859517	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639059859525	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639059859526	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1639059887724	geckodriver	INFO	Listening on 127.0.0.1:57595
+1639059888230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55895" "-no-remote" "-profile" "/tmp/rust_mozprofilei7jW8u"
+1639059889150	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei7jW8u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55895/devtools/browser/c335ce4f-ed32-471c-8e90-937c9e52f7e5
+1639059890617	Marionette	INFO	Listening on port 38961
+1639059890699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390888&moatClientSlicer1=269605102&moatClientSlicer2=21695797637&zMoatPS=LB1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1639060946855	geckodriver	INFO	Listening on 127.0.0.1:43147
+1639060947360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43127" "-no-remote" "-profile" "/tmp/rust_mozprofile08Q7Kx"
+1639060948324	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile08Q7Kx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43127/devtools/browser/52663550-6e0e-4cd8-a48e-d1214acbf391
+1639060949770	Marionette	INFO	Listening on port 35037
+1639060949817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639060958836	Marionette	INFO	Stopped listening on port 35037
+1639060959370	geckodriver	INFO	Listening on 127.0.0.1:59831
+1639060959375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57645" "-no-remote" "-profile" "/tmp/rust_mozprofilehVRHBS"
+1639060959957	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehVRHBS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57645/devtools/browser/5ef1cbae-1830-4226-8297-557cfeb902c5
+1639060961258	Marionette	INFO	Listening on port 43895
+1639060961357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639060969433	geckodriver	INFO	Listening on 127.0.0.1:41197
+1639060969940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41769" "-no-remote" "-profile" "/tmp/rust_mozprofileOa3kl1"
+1639060970507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOa3kl1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41769/devtools/browser/503ec832-bfa3-49f1-af75-75255818137e
+1639060972632	Marionette	INFO	Listening on port 37483
+1639060972716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639060997953	geckodriver	INFO	Listening on 127.0.0.1:47459
+1639060998470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44301" "-no-remote" "-profile" "/tmp/rust_mozprofileWaXYpH"
+1639060999206	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWaXYpH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44301/devtools/browser/93f5dfdc-87c3-499e-9ffd-c7bf24013475
+1639061001301	Marionette	INFO	Listening on port 38911
+1639061001410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639061001603	Marionette	INFO	Stopped listening on port 37483
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639061002788	Marionette	INFO	Stopped listening on port 43895
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1639061008797	Marionette	INFO	Stopped listening on port 38911
+1639061009361	geckodriver	INFO	Listening on 127.0.0.1:56683
+1639061009370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53843" "-no-remote" "-profile" "/tmp/rust_mozprofiley4xGBx"
+1639061009928	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley4xGBx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53843/devtools/browser/4225e59b-c8a7-45d2-9ad7-461bccaddeb8
+1639061011322	Marionette	INFO	Listening on port 43575
+1639061011401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639061019009	geckodriver	INFO	Listening on 127.0.0.1:35615
+1639061019015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43965" "-no-remote" "-profile" "/tmp/rust_mozprofiledCVUmh"
+1639061019686	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledCVUmh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43965/devtools/browser/30e52644-90ff-444f-907a-9d516e001f3d
+1639061021036	Marionette	INFO	Listening on port 34499
+1639061021187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639061027293	Marionette	INFO	Stopped listening on port 34499
+1639061027832	geckodriver	INFO	Listening on 127.0.0.1:47789
+1639061027836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40863" "-no-remote" "-profile" "/tmp/rust_mozprofileZLGvrM"
+1639061028463	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZLGvrM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40863/devtools/browser/ba8edc05-7e87-46a6-a899-d36e28659789
+1639061029777	Marionette	INFO	Listening on port 40119
+1639061029884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639061037560	Marionette	INFO	Stopped listening on port 40119
+1639061038092	geckodriver	INFO	Listening on 127.0.0.1:40121
+1639061038096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35089" "-no-remote" "-profile" "/tmp/rust_mozprofileARcJFO"
+1639061038623	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileARcJFO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35089/devtools/browser/8c308727-ab94-4070-ac85-0e7806ced9ac
+1639061039934	Marionette	INFO	Listening on port 39861
+1639061040029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639061048225	Marionette	INFO	Stopped listening on port 39861
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639061048797	geckodriver	INFO	Listening on 127.0.0.1:45003
+1639061048803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49665" "-no-remote" "-profile" "/tmp/rust_mozprofile6izUJU"
+1639061049414	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6izUJU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49665/devtools/browser/09b92812-fcb5-4127-887a-d52b3fcd6485
+1639061050723	Marionette	INFO	Listening on port 45649
+1639061050881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639061059468	geckodriver	INFO	Listening on 127.0.0.1:35029
+1639061059473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39065" "-no-remote" "-profile" "/tmp/rust_mozprofilegnR3L8"
+1639061060241	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegnR3L8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39065/devtools/browser/504b2b7f-678f-44aa-bd1e-aee7912679fb
+1639061062231	Marionette	INFO	Listening on port 35147
+1639061062300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639061068731	geckodriver	INFO	Listening on 127.0.0.1:46199
+1639061068738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50273" "-no-remote" "-profile" "/tmp/rust_mozprofile8Vo6iA"
+1639061069468	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8Vo6iA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50273/devtools/browser/62016460-de99-44e7-a922-c3328597572c
+1639061071458	Marionette	INFO	Listening on port 36969
+1639061071570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639061076682	Marionette	INFO	Stopped listening on port 36969
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639061077414	geckodriver	INFO	Listening on 127.0.0.1:35165
+1639061077418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48889" "-no-remote" "-profile" "/tmp/rust_mozprofileXT6RNO"
+1639061078097	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXT6RNO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48889/devtools/browser/9a567958-42a7-43dd-bd6d-a70bde041777
+1639061079697	Marionette	INFO	Listening on port 39967
+1639061079748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639061086686	Marionette	INFO	Stopped listening on port 39967
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639061087231	geckodriver	INFO	Listening on 127.0.0.1:36965
+1639061087747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47433" "-no-remote" "-profile" "/tmp/rust_mozprofilekh4271"
+1639061088325	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekh4271/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47433/devtools/browser/48823d81-6a81-4ca6-9113-3cdd1fe6b52a
+1639061089693	Marionette	INFO	Listening on port 39333
+1639061089796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639061097075	Marionette	INFO	Stopped listening on port 39333
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639061097737	geckodriver	INFO	Listening on 127.0.0.1:35083
+1639061097748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56693" "-no-remote" "-profile" "/tmp/rust_mozprofileMUqvvu"
+1639061098299	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMUqvvu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56693/devtools/browser/ae1bc6b0-6b8f-473d-a7c9-cd09d79d05ba
+1639061099679	Marionette	INFO	Listening on port 35307
+1639061099824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639061109195	geckodriver	INFO	Listening on 127.0.0.1:45169
+1639061109201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35525" "-no-remote" "-profile" "/tmp/rust_mozprofileyKmWZJ"
+1639061110097	Marionette	INFO	Marionette enabled
+1639061594244	geckodriver	INFO	Listening on 127.0.0.1:54491
+1639061594716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34935" "-no-remote" "-profile" "/tmp/rust_mozprofileRdwcsQ"
+1639061595349	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRdwcsQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34935/devtools/browser/00f78fae-f62f-40ab-9a27-12a7db3a32a5
+1639061597294	Marionette	INFO	Listening on port 35619
+1639061597360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390849&moatClientSlicer1=269605102&moatClientSlicer2=21700831709&zMoatPS=MPU1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390888&moatClientSlicer1=269605102&moatClientSlicer2=21695797637&zMoatPS=LB1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1639061778207	geckodriver	INFO	Listening on 127.0.0.1:40729
+1639061778717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35227" "-no-remote" "-profile" "/tmp/rust_mozprofilefIA6dQ"
+1639061779640	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefIA6dQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35227/devtools/browser/30dca33c-6859-4465-8532-39bea062cdec
+1639061781406	Marionette	INFO	Listening on port 41645
+1639061781453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390849&moatClientSlicer1=269605102&moatClientSlicer2=21695797637&zMoatPS=MPU1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639062615797	geckodriver	INFO	Listening on 127.0.0.1:55177
+1639062616308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47021" "-no-remote" "-profile" "/tmp/rust_mozprofile8Ooyi2"
+1639062617138	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8Ooyi2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47021/devtools/browser/6e5d3500-0817-46b1-ae95-19e3f65c6fc2
+1639062618697	Marionette	INFO	Listening on port 35681
+1639062618764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062624095	Marionette	INFO	Stopped listening on port 35681
+1639062624632	geckodriver	INFO	Listening on 127.0.0.1:36557
+1639062624637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34531" "-no-remote" "-profile" "/tmp/rust_mozprofileab1V6O"
+1639062625164	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileab1V6O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34531/devtools/browser/d01f26d7-1fb6-45f6-aacf-c043cfde9106
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 137: Error: No DOM node set for aPlacesNode.
+node.type: 0. node.parent: [xpconnect wrapped nsINavHistoryResultNode]
+1639062626476	Marionette	INFO	Listening on port 34167
+1639062626663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062628660	Marionette	INFO	Stopped listening on port 41645
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1639062633030	geckodriver	INFO	Listening on 127.0.0.1:54565
+1639062633035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35217" "-no-remote" "-profile" "/tmp/rust_mozprofileqZhQKr"
+1639062633698	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqZhQKr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35217/devtools/browser/014f9bd7-66ae-4176-8280-2c4381d48bbd
+1639062635442	Marionette	INFO	Listening on port 37639
+1639062635471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062636162	Marionette	INFO	Stopped listening on port 34167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639062642725	geckodriver	INFO	Listening on 127.0.0.1:56759
+1639062642729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52495" "-no-remote" "-profile" "/tmp/rust_mozprofileXjq0PO"
+1639062643362	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXjq0PO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52495/devtools/browser/3d80132f-3a29-4030-915e-7d801a395a85
+1639062645013	Marionette	INFO	Listening on port 40107
+1639062645050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062645464	Marionette	INFO	Stopped listening on port 37639
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639062651521	Marionette	INFO	Stopped listening on port 40107
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639062652049	geckodriver	INFO	Listening on 127.0.0.1:56681
+1639062652054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36701" "-no-remote" "-profile" "/tmp/rust_mozprofilekLSMOo"
+1639062652717	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekLSMOo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36701/devtools/browser/ab7c243b-5173-4d23-aedb-b4fe51c1440b
+1639062654345	Marionette	INFO	Listening on port 38341
+1639062654397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062663681	geckodriver	INFO	Listening on 127.0.0.1:36353
+1639062663686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44747" "-no-remote" "-profile" "/tmp/rust_mozprofilex0JY7b"
+1639062664343	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex0JY7b/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44747/devtools/browser/3613e887-77e5-4253-85a4-c70575f2b5ea
+1639062665758	Marionette	INFO	Listening on port 45405
+1639062665924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062667535	Marionette	INFO	Stopped listening on port 38341
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639062674681	Marionette	INFO	Stopped listening on port 45405
+1639062675188	geckodriver	INFO	Listening on 127.0.0.1:38505
+1639062675191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36221" "-no-remote" "-profile" "/tmp/rust_mozprofileq10Gmj"
+1639062675709	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq10Gmj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36221/devtools/browser/c215f698-779d-4881-af68-16c6a1a0c03e
+1639062677243	Marionette	INFO	Listening on port 42173
+1639062678335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062683004	geckodriver	INFO	Listening on 127.0.0.1:42885
+1639062683010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57599" "-no-remote" "-profile" "/tmp/rust_mozprofileRFretC"
+1639062683767	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRFretC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57599/devtools/browser/4fb7eb51-0da0-4fd4-87fa-aebcafd2b1f7
+1639062685482	Marionette	INFO	Listening on port 41889
+1639062685548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062687252	Marionette	INFO	Stopped listening on port 42173
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1639062693756	Marionette	INFO	Stopped listening on port 41889
+1639062694304	geckodriver	INFO	Listening on 127.0.0.1:45187
+1639062694311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54683" "-no-remote" "-profile" "/tmp/rust_mozprofilePtic89"
+1639062694829	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePtic89/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54683/devtools/browser/d0be9793-4a7e-4568-8f02-ed43586bb634
+1639062696239	Marionette	INFO	Listening on port 43645
+1639062696399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062705354	Marionette	INFO	Stopped listening on port 43645
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639062706017	geckodriver	INFO	Listening on 127.0.0.1:38735
+1639062706025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59371" "-no-remote" "-profile" "/tmp/rust_mozprofileBZpImm"
+1639062706562	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBZpImm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59371/devtools/browser/392cf3c8-3758-4c7e-a49e-94d9c26911bb
+1639062707879	Marionette	INFO	Listening on port 39651
+1639062707960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062713869	geckodriver	INFO	Listening on 127.0.0.1:52235
+1639062713876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55011" "-no-remote" "-profile" "/tmp/rust_mozprofileTBGsOA"
+1639062714592	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTBGsOA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55011/devtools/browser/7c4f5227-6c21-49e3-a006-f7c38b98096f
+1639062716066	Marionette	INFO	Listening on port 45311
+1639062716115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062717423	Marionette	INFO	Stopped listening on port 39651
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639062722454	Marionette	INFO	Stopped listening on port 45311
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639062722975	geckodriver	INFO	Listening on 127.0.0.1:58995
+1639062722984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50951" "-no-remote" "-profile" "/tmp/rust_mozprofileHQoVDM"
+1639062723498	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHQoVDM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50951/devtools/browser/fcf1e5a2-1df0-44cc-9d4e-322404c70cb7
+1639062724809	Marionette	INFO	Listening on port 43343
+1639062724910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062735526	Marionette	INFO	Stopped listening on port 43343
+1639062736040	geckodriver	INFO	Listening on 127.0.0.1:41157
+1639062736043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52611" "-no-remote" "-profile" "/tmp/rust_mozprofileNfDj5B"
+1639062736583	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNfDj5B/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52611/devtools/browser/a70d829e-1114-439c-a942-31a45fe77eb9
+1639062738142	Marionette	INFO	Listening on port 43077
+1639062738179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062742402	geckodriver	INFO	Listening on 127.0.0.1:54071
+1639062742408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38787" "-no-remote" "-profile" "/tmp/rust_mozprofileQXiapo"
+1639062743142	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQXiapo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38787/devtools/browser/3aba505e-a117-4727-91c6-c3c6f9f98ffc
+1639062744961	Marionette	INFO	Listening on port 34233
+1639062745045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+1639062752235	Marionette	INFO	Stopped listening on port 43077
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639062752780	Marionette	INFO	Stopped listening on port 34233
+1639062753324	geckodriver	INFO	Listening on 127.0.0.1:34901
+1639062753328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60867" "-no-remote" "-profile" "/tmp/rust_mozprofileReDXjX"
+1639062753858	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileReDXjX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60867/devtools/browser/70bf5de2-9842-4e33-9aee-e5150bd9bf2f
+1639062755122	Marionette	INFO	Listening on port 41683
+1639062755214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1639062800960	geckodriver	INFO	Listening on 127.0.0.1:37953
+1639062800966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59465" "-no-remote" "-profile" "/tmp/rust_mozprofilecD72Fr"
+1639062801495	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecD72Fr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59465/devtools/browser/4a521fac-8af6-4a95-9942-32dd6b5ec220
+1639062802769	Marionette	INFO	Listening on port 35507
+1639062802901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062807549	geckodriver	INFO	Listening on 127.0.0.1:54271
+1639062807554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37549" "-no-remote" "-profile" "/tmp/rust_mozprofileeS6vBS"
+1639062808198	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeS6vBS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37549/devtools/browser/781a1c10-cb7a-42fb-b55c-777cf468b6c7
+1639062809490	Marionette	INFO	Listening on port 44657
+1639062809591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062812470	geckodriver	INFO	Listening on 127.0.0.1:37591
+1639062812477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40291" "-no-remote" "-profile" "/tmp/rust_mozprofilejurDwt"
+1639062813113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejurDwt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40291/devtools/browser/2ae61d64-63f6-4dff-a3dd-f33acc7d6c0f
+1639062814517	Marionette	INFO	Listening on port 37267
+1639062814673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062816778	Marionette	INFO	Stopped listening on port 35507
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639062817833	Marionette	INFO	Stopped listening on port 44657
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1639062818959	geckodriver	INFO	Listening on 127.0.0.1:41487
+1639062818964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35301" "-no-remote" "-profile" "/tmp/rust_mozprofileijaO3V"
+1639062819605	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileijaO3V/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35301/devtools/browser/f931b49f-92c4-4257-bfe5-00ee145703ea
+1639062821034	Marionette	INFO	Listening on port 44149
+1639062821089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062826980	geckodriver	INFO	Listening on 127.0.0.1:52805
+1639062826984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58689" "-no-remote" "-profile" "/tmp/rust_mozprofileP8M2AO"
+1639062827629	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP8M2AO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58689/devtools/browser/cb0b19cf-bf70-4d2d-9047-404026ab5c06
+1639062829101	Marionette	INFO	Listening on port 43355
+1639062829234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062833753	geckodriver	INFO	Listening on 127.0.0.1:49261
+1639062834258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47807" "-no-remote" "-profile" "/tmp/rust_mozprofileZO4TdA"
+1639062834867	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZO4TdA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47807/devtools/browser/55d19853-f350-478d-8d04-fdf538a90250
+1639062836679	Marionette	INFO	Listening on port 43309
+1639062836908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639062841797	geckodriver	INFO	Listening on 127.0.0.1:52571
+1639062841802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52797" "-no-remote" "-profile" "/tmp/rust_mozprofileOJGkZO"
+1639062842544	Marionette	INFO	Marionette enabled
+1639062843115	Marionette	INFO	Stopped listening on port 43309
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOJGkZO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52797/devtools/browser/8dda095f-972e-4319-9b88-6c076aef6171
+1639062844675	Marionette	INFO	Listening on port 36657
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 718: TypeError: captureCallback is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1639062846259	Marionette	INFO	Stopped listening on port 43355
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639062847356	Marionette	INFO	Stopped listening on port 44149
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639062854773	Marionette	INFO	Stopped listening on port 37267
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
