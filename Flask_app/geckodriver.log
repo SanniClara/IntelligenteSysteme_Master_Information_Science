@@ -4041,3 +4041,27 @@ DevTools listening on ws://localhost:44205/devtools/browser/18a81aa3-d554-49ab-a
 
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639152824379	geckodriver	INFO	Listening on 127.0.0.1:51843
+1639152824893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46203" "-no-remote" "-profile" "/tmp/rust_mozprofilePSkNB6"
+1639152826091	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePSkNB6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46203/devtools/browser/c29298fd-9824-40c0-bef0-7f10a78c36f2
+1639152828101	Marionette	INFO	Listening on port 35623
+1639152828164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639153547009	Marionette	INFO	Stopped listening on port 35623
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639153570253	geckodriver	INFO	Listening on 127.0.0.1:33497
+1639153570765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59243" "-no-remote" "-profile" "/tmp/rust_mozprofileTaQn7A"
+1639153571438	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTaQn7A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59243/devtools/browser/e1b13b00-8ba4-4ae0-8970-3fdc34d79893
+1639153573582	Marionette	INFO	Listening on port 33177
+1639153573730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
