@@ -31,7 +31,7 @@
      {% endfor %}
     -->
 
-      <h2 class="HeadingWikipediaLinks" >Keywörter aus allen Artikeln:</h2>
+      <h2 class="HeadingWikipediaLinks" >Keywörter aus allen Artikeln mit Wikipedia Link und Zusammenfassung:</h2>
 
      {% for object in LinksKeywordsAndSummary %}
          <a href="{{ object.link }}" class="tooltip">{{ object.keyword }} ,
