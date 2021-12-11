@@ -4065,3 +4065,67 @@ DevTools listening on ws://localhost:59243/devtools/browser/e1b13b00-8ba4-4ae0-8
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1639162467016	geckodriver	INFO	Listening on 127.0.0.1:44953
+1639162467520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48495" "-no-remote" "-profile" "/tmp/rust_mozprofilesi21F7"
+1639162468385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesi21F7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48495/devtools/browser/b64b88af-e532-4751-9f1f-b580b44aa1a7
+1639162470838	Marionette	INFO	Listening on port 43077
+1639162470957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390849&moatClientSlicer1=269605102&moatClientSlicer2=21695797343&zMoatPS=MPU1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390888&moatClientSlicer1=269605102&moatClientSlicer2=21695900007&zMoatPS=LB1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/b_8rsBg2pSAE7OSEuXeXkmKAJRzK7XLbOE8Wp2RNR2Q.js line 1 > eval line 3892 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/b_8rsBg2pSAE7OSEuXeXkmKAJRzK7XLbOE8Wp2RNR2Q.js line 1 > eval line 324 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639163017885	geckodriver	INFO	Listening on 127.0.0.1:46273
+1639163018393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43733" "-no-remote" "-profile" "/tmp/rust_mozprofileU64DqI"
+1639163019766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileU64DqI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43733/devtools/browser/a7117d3a-1502-4285-92d8-1d6f481ec952
+1639163022276	Marionette	INFO	Listening on port 34835
+1639163022361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+1639163033713	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390888&moatClientSlicer1=269605102&moatClientSlicer2=21700831709&zMoatPS=LB1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1639163155397	geckodriver	INFO	Listening on 127.0.0.1:39607
+1639163155910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48781" "-no-remote" "-profile" "/tmp/rust_mozprofileutlNTd"
+1639163156761	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileutlNTd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48781/devtools/browser/55b1ce20-02b9-4577-90b3-11a1f57824e1
+1639163158889	Marionette	INFO	Listening on port 41963
+1639163158956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4772813710&moatClientLevel2=2912951435&moatClientLevel3=5798867881&moatClientLevel4=138365284221&moatClientSlicer1=269605102&moatClientSlicer2=21700831724&zMoatPS=LB1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390849&moatClientSlicer1=269605102&moatClientSlicer2=21695797343&zMoatPS=MPU1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1639163172095	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1639163184676	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390849&moatClientSlicer1=269605102&moatClientSlicer2=21695900007&zMoatPS=MPU1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/b_8rsBg2pSAE7OSEuXeXkmKAJRzK7XLbOE8Wp2RNR2Q.js line 1 > eval line 2257 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639163759630	geckodriver	INFO	Listening on 127.0.0.1:34689
+1639163760144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47005" "-no-remote" "-profile" "/tmp/rust_mozprofileiI1ftt"
+1639163761240	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiI1ftt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47005/devtools/browser/6f5149f7-c46c-4946-a389-c3b275f3c8df
+1639163763472	Marionette	INFO	Listening on port 38977
+1639163763605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390849&moatClientSlicer1=269605102&moatClientSlicer2=21695797343&zMoatPS=MPU1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript error: https://collect.nature.com/gtm.js?id=GTM-MRVXSHQ line 3 > eval, line 7: TypeError: c.detail is null
+JavaScript warning: https://z.moatads.com/naturedfp395221120438/moatad.js#moatClientLevel1=4410569887&moatClientLevel2=2347884883&moatClientLevel3=4733293352&moatClientLevel4=138238390849&moatClientSlicer1=269605102&moatClientSlicer2=21696070987&zMoatPS=MPU1&refresh=1, line 252: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

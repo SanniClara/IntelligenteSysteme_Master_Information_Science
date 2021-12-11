@@ -6,8 +6,11 @@
 
 </head>
 <body>
+<img src="{{url_for('static', filename='/images/Nature_logo.png')}}" />
+<img class="MeshLogo" src="{{url_for('static', filename='/images/Medical_Subject_Headings_logo.jpg')}}" />
 
-   <h1>Nature keyword search for medical professionals</h1>
+
+   <h1>Nature/MESH keyword search for medical professionals</h1>
     <h2>Geben Sie zwei Suchwörter für die Suche auf "Nature Journal" an:</h2>
     <form method="POST">
     <input name="searchInputEINS"></input>
@@ -29,7 +32,7 @@
       <h2>Keywörter aus allen Artikeln:</h2>
 
      {% for keywords in final_keyWordArrayStorage %}
-      <li> Keywords:  {{ keywords }} </li>
+      <p>{{ keywords }} ,</p>
      {% endfor %}
 
 
@@ -38,16 +41,8 @@
       <a href="{{ wikiLinks }}" > Keywords:  {{ wikiLinks }} </a> <br>
       {% endfor %}
 
-      <h2>MESH Suchergebnisse :</h2>
-
-
+      <h2>MESH Suchergebnisse:</h2>
       <h2>Mesh Netzwerk Visualisierung:</h2>
-
-
-
-
-
-
 
 </body>
 </html>
