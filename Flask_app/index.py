@@ -45,20 +45,26 @@ def start():
 
         docs = []
         ArticleTitles = []
+        titelUndArtikel = []
 
         for x in ArtikelLinks:
             driver.get(x)
             nachschauen = driver.find_elements(By.XPATH, "//html/body/div[2]/main/article/div[2]/section[1]/div/div/p ")
             titelExtrahieren = driver.find_elements(By.XPATH, "/html/body/div[2]/main/article/div[1]/header/h1")
-            for titel in titelExtrahieren:
+            for titel, e in zip(titelExtrahieren, nachschauen):
                 print("TITEL")
                 print(titel.text)
                 ArticleTitles.append(titel.text)
-            for e in nachschauen:
                 print("ABSTRACT")
                 print(e.text)
                 docs.append(e.text)
+                titelUndArtikel.append({
+                    "titel" : titel.text,
+                    "abstract" : e.text
+                })
             print(" ")
+            print(titelUndArtikel)
+
 
         print(len(docs))
 
@@ -95,6 +101,7 @@ def start():
 
         SummaryOfKeyword = []
         WikipediaLink = []
+        LinksKeywordsAndSummary = []
         for new in final_keyWordArrayStorage:
             try:
                 print(new + ": " + wikipedia.summary(new))
@@ -105,13 +112,25 @@ def start():
                 pass
                 continue
 
+
         print(" Array print: ", SummaryOfKeyword, WikipediaLink)
+
+        for links, keywords , summary in zip(WikipediaLink,final_keyWordArrayStorage,SummaryOfKeyword):
+            LinksKeywordsAndSummary.append({
+                "link": links,
+                "keyword": keywords,
+                "summary": summary
+            })
+        print(LinksKeywordsAndSummary)
+
         return render_template('index.html', searchInputEINS=searchInputEINS,
                                searchInputZWEI=searchInputZWEI,
                                ArticleTitles=ArticleTitles,
                                docs=docs,
                                final_keyWordArrayStorage=final_keyWordArrayStorage,
-                               SummaryOfKeyword=SummaryOfKeyword, WikipediaLink=WikipediaLink )
+                               SummaryOfKeyword=SummaryOfKeyword, WikipediaLink=WikipediaLink,
+                               titelUndArtikel=titelUndArtikel,
+                               LinksKeywordsAndSummary=LinksKeywordsAndSummary)
     else:
         return render_template('index.html')
 

@@ -19,8 +19,10 @@
     </form>
 
      <h2>Titel der gefundenen Artikel:</h2>
-     {% for titles in ArticleTitles %}
-         <li> {{ titles }} </li>
+     {% for object in titelUndArtikel %}
+         <li class="tooltip">{{ object.titel }}
+           <span class="tooltiptext">{{ object.abstract }}</span>
+         </li>
      {% endfor %}
 
     <!-- später als tooltip über die Titel einbauen mit for in for schleife
@@ -29,20 +31,18 @@
      {% endfor %}
     -->
 
-      <h2>Keywörter aus allen Artikeln:</h2>
+      <h2 class="HeadingWikipediaLinks" >Keywörter aus allen Artikeln:</h2>
 
-     {% for keywords in final_keyWordArrayStorage %}
-      <p>{{ keywords }} ,</p>
+     {% for object in LinksKeywordsAndSummary %}
+         <a href="{{ object.link }}" class="tooltip">{{ object.keyword }} ,
+           <span class="tooltiptext">{{ object.summary }}</span>
+         </a>
      {% endfor %}
 
 
-      <h2>Wikipedia Artikel zu Keywörtern:</h2>
-      {% for wikiLinks in WikipediaLink %}
-      <a href="{{ wikiLinks }}" > Keywords:  {{ wikiLinks }} </a> <br>
-      {% endfor %}
-
       <h2>MESH Suchergebnisse:</h2>
       <h2>Mesh Netzwerk Visualisierung:</h2>
+      <img class="MeshLogo" src="{{url_for('static', filename='/images/GraphViz.png')}}" />
 
 </body>
 </html>
